@@ -2,18 +2,8 @@
 Third-order cube teaching software 
 三階魔方教學軟件
 
-Plan to create a cube teaching software
-1, third-order cube
-2, second-order cube
-3, fourth-order cube
-4, fifth-order cube
-5, 6th order cube
-6, Seven Miles Cube
-8, other............
-
-The first step The third-order cube
-One piece shows color,
-The correct position of the display color, the piece to be spelled also shows color, the rest shows gray,
+平台: Win、Mac、Linux、IOS、Android
+platform: Win、Mac、Linux、IOS、Android
 
 
 計劃創建一個魔方教學軟件
@@ -28,5 +18,22 @@ The correct position of the display color, the piece to be spelled also shows co
 第一步 三階魔方
 一塊一塊顯出顔色，
 正確位置的顯示彩色，將要拼的一塊也顯示彩色，其餘顯示灰色，
+
+
+Plan to create a cube teaching software
+1, third-order cube
+2, second-order cube
+3, fourth-order cube
+4, fifth-order cube
+5, 6th order cube
+6, Seven Miles Cube
+8, other............
+
+The first step The third-order cube
+One piece shows color,
+The correct position of the display color, the piece to be spelled also shows color, the rest shows gray,
+
+
+
 
 
