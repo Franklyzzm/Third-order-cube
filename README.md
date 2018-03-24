@@ -1,5 +1,6 @@
 # Third-order-cube
-Third-order cube teaching software 三階魔方教學軟件
+Third-order cube teaching software 
+三階魔方教學軟件
 
 Plan to create a cube teaching software
 1, third-order cube
